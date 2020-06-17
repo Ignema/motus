@@ -1,0 +1,7 @@
+
+	AVANT D'EXECUTER LE MAKEFILE IL FAUT EXECUTER LES COMMANDES SUIVANTES:
+
+
+		1. 	sudo apt-get update
+
+		2. 	sudo apt-get install libgtk-3-dev
